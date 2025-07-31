@@ -19,7 +19,7 @@ I’ve released **FREE high-quality mods** with full `.sma` source files, tutori
 ## 📚 What I Offer
 
 - 🧠 **Easy YouTube Tutorials** on how to build and customize CS 1.6 Mods  
-  🔗 [Watch here]www.youtube.com/@dark_expert_cs)
+  🔗 [Watch here](www.youtube.com/@dark_expert_cs)
 
 - 💾 **Free ZE, ZP, and Public Mod Packs**  
   ✅ All include `.sma` files  
